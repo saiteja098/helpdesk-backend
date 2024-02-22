@@ -8,7 +8,7 @@
     "dev": "node app.js"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=16.20.1"
   },
   "author": "sai teja chenji",
   "license": "ISC",
