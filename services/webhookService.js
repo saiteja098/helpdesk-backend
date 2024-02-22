@@ -1,7 +1,7 @@
 const asyncHandler = require('express-async-handler');
 const axios = require('axios');
 
-const BASE_URL = 'http://localhost:3050';
+const BASE_URL = 'https://main.dvssrw0xc4zzk.amplifyapp.com/';
 
 const ACCESS_TOKEN = "";
 
